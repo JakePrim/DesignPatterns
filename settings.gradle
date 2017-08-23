@@ -1,1 +1,1 @@
-include ':app', ':linksuimglib'
+include ':app', ':linksuimglib', ':kotlin_designpatterns'

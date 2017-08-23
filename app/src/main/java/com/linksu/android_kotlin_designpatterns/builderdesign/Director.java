@@ -31,6 +31,10 @@ public class Director {
     public static class Tesst {
         public static void main(String[] args) {
             Builder builder = new MacbookBuilder();
+            builder.buildBoard("aaa");
+            builder.buildDisplay("sss");
+            builder.buildOS();
+            builder.create();
             Director director = new Director(builder);
             director.construct("ssss", "sssss");
             System.out.print(builder.create().toString());
