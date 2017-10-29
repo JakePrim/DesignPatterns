@@ -1,12 +1,13 @@
-package com.linksu.android_kotlin_designpatterns.prototypedesign;
+package com.linksu.android_kotlin_designpatterns.prototype_design;
 
-import com.linksu.android_kotlin_designpatterns.prototypedesign.actualcombat.Address;
-import com.linksu.android_kotlin_designpatterns.prototypedesign.actualcombat.LoginImpl;
-import com.linksu.android_kotlin_designpatterns.prototypedesign.actualcombat.LoginSession;
-import com.linksu.android_kotlin_designpatterns.prototypedesign.actualcombat.User;
+import com.linksu.android_kotlin_designpatterns.prototype_design.actualcombat.Address;
+import com.linksu.android_kotlin_designpatterns.prototype_design.actualcombat.LoginImpl;
+import com.linksu.android_kotlin_designpatterns.prototype_design.actualcombat.LoginSession;
+import com.linksu.android_kotlin_designpatterns.prototype_design.actualcombat.User;
 
 /**
  * Created by suful on 2017/10/21.
+ * 原型模式
  */
 
 public class Client {

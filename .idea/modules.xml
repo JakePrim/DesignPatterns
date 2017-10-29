@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-Kotlin-DesignPatterns.iml" filepath="$PROJECT_DIR$/Android-Kotlin-DesignPatterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Android-Kotlin-DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/Android-Kotlin-DesignPatterns.iml" />
-      <module fileurl="file://D:/demo/Android-Kotlin-DesignPatterns/Android-Kotlin-DesignPatterns.iml" filepath="D:/demo/Android-Kotlin-DesignPatterns/Android-Kotlin-DesignPatterns.iml" />
+      <module fileurl="file://E:\AndroidProject\Android-Kotlin-DesignPatterns\.idea\Android-Kotlin-DesignPatterns.iml" filepath="E:\AndroidProject\Android-Kotlin-DesignPatterns\.idea\Android-Kotlin-DesignPatterns.iml" />
+      <module fileurl="file://D:\demo\Android-Kotlin-DesignPatterns\Android-Kotlin-DesignPatterns.iml" filepath="D:\demo\Android-Kotlin-DesignPatterns\Android-Kotlin-DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:/demo/Android-Kotlin-DesignPatterns/app/app.iml" filepath="D:/demo/Android-Kotlin-DesignPatterns/app/app.iml" />
+      <module fileurl="file://D:\demo\Android-Kotlin-DesignPatterns\app\app.iml" filepath="D:\demo\Android-Kotlin-DesignPatterns\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin_designpatterns/kotlin_designpatterns.iml" filepath="$PROJECT_DIR$/kotlin_designpatterns/kotlin_designpatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/linksuimglib/linksuimglib.iml" filepath="$PROJECT_DIR$/linksuimglib/linksuimglib.iml" />
-      <module fileurl="file://D:/demo/Android-Kotlin-DesignPatterns/linksuimglib/linksuimglib.iml" filepath="D:/demo/Android-Kotlin-DesignPatterns/linksuimglib/linksuimglib.iml" />
+      <module fileurl="file://D:\demo\Android-Kotlin-DesignPatterns\linksuimglib\linksuimglib.iml" filepath="D:\demo\Android-Kotlin-DesignPatterns\linksuimglib\linksuimglib.iml" />
     </modules>
   </component>
 </project>

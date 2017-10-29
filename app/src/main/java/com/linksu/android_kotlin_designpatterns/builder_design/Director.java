@@ -1,9 +1,4 @@
-package com.linksu.android_kotlin_designpatterns.builderdesign;
-
-import android.provider.Settings;
-import android.util.Log;
-
-import static android.content.ContentValues.TAG;
+package com.linksu.android_kotlin_designpatterns.builder_design;
 
 /**
  * ==========================================
@@ -11,6 +6,7 @@ import static android.content.ContentValues.TAG;
  * 版 本：1.0
  * 创建日期： 2017/8/21
  * 描 述：统一组装过程，负责构造Computer
+ * Builder 模式
  * 修订历史：
  * ==========================================
  */

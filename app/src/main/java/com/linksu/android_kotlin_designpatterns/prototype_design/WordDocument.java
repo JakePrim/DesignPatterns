@@ -1,9 +1,6 @@
-package com.linksu.android_kotlin_designpatterns.prototypedesign;
-
-import android.util.Log;
+package com.linksu.android_kotlin_designpatterns.prototype_design;
 
 import java.util.ArrayList;
-import java.util.concurrent.ExecutionException;
 
 /**
  * Created by suful on 2017/10/21.

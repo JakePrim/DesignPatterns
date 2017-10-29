@@ -1,4 +1,4 @@
-package com.linksu.android_kotlin_designpatterns.prototypedesign.actualcombat;
+package com.linksu.android_kotlin_designpatterns.prototype_design.actualcombat;
 
 /**
  * Created by suful on 2017/10/26.

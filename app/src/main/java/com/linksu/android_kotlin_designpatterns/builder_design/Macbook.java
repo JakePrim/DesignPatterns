@@ -1,4 +1,4 @@
-package com.linksu.android_kotlin_designpatterns.builderdesign;
+package com.linksu.android_kotlin_designpatterns.builder_design;
 
 /**
  * ==========================================
