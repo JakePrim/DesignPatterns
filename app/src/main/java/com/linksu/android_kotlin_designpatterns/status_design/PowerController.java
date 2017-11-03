@@ -15,11 +15,13 @@ public class PowerController implements PowerListener {
     @Override
     public void powerOn() {
         setTvState(new PowerOnState());
+        System.out.println("开机了");
     }
 
     @Override
     public void powerOff() {
         setTvState(new PowerOffState());
+        System.out.println("关机了");
     }
 
     public void nextChannel() {
